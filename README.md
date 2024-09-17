@@ -77,8 +77,3 @@ You can find these dependencies in the `Cargo.toml` file.
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
-## Contribution
-
-Feel free to fork this repository and submit pull requests. Issues and bug reports are welcome.
-
-
