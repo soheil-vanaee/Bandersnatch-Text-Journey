@@ -1,4 +1,4 @@
-# Bandersnatch Game (Terminal Text-Based Adventure)
+# Bandersnatch Game (Terminal Text-Based)
 
 This project is a text-based interactive adventure game inspired by the "Bandersnatch" episode from *Black Mirror*. The game allows players to navigate through different scenarios by choosing between two options at each stage. The game uses Rust and the `crossterm` crate for terminal-based interactions.
 
@@ -19,7 +19,7 @@ This project is a text-based interactive adventure game inspired by the "Banders
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bandersnatch-game.git
+    git clone https://github.com/yourusername/Bandersnatch-Text-Journey.git
     cd bandersnatch-game
     ```
 
@@ -50,7 +50,7 @@ The game contains a series of stages where you must choose between two options. 
 
 To help you navigate through the game's levels, here’s a step-by-step visual guide:
 
-![Game Level Guide](./picture.jpg)
+![Game Level Guide](./bandersnatch.jpg)
 
 ## Code Overview
 
