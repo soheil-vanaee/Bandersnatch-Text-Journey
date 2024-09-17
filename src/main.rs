@@ -1,5 +1,5 @@
-pub mod linemove;
+pub mod pathfinder;
 
 fn main() {
-    linemove::methodofline();
+    pathfinder::methodofline();
 }
